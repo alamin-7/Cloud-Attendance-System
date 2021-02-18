@@ -1,0 +1,4 @@
+Wireless : https://www.quora.com/How-can-I-configure-wireless-lan-          connection-in-Cisco-Packet-Tracer
+
+
+RIP configuring : https://www.youtube.com/watch?v=1N5yNP7eoZA&t=724s
